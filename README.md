@@ -7,3 +7,5 @@
    - **Yes**: Print "You Won!"
    - **No**: Print "You Lost!"
 5. **End**
+
+[sourse code](guessing_game.py)
