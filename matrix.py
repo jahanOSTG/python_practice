@@ -1,4 +1,4 @@
-
+#print each element of matrix
 
 matrix=[
     [1,2,3],
