@@ -1,6 +1,6 @@
 studentID=(
     ("Faria Jahan Janie",552,27),
-    "Riochmond Antor Biswas",
+    "Richmond Antor Biswas",
     "Hossain Khan"
     
 )
